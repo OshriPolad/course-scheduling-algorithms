@@ -1,6 +1,6 @@
 # Course Scheduling — Algorithms Assignment
 
-**Team members:** _Oshri Polad_, _[Member 2]_, _[Member 3]_
+**Team members:** Oshri Polad, Daniel Zehavi
 
 A C++ program that solves three optimization problems on a list of courses:
 
